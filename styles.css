@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+#video {
+    display: block;
+    margin: 20px auto;
+}
+
+#counter {
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+
+.message {
+    position: absolute;
+    font-weight: bold;
+}
